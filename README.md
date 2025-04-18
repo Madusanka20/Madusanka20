@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan Madusanka</h1>
-<h3 align="center">"Bridging the realms of biomedical and electronic engineering, I navigate a path driven by curiosity, innovation, and discovery. With a deep passion for machine learning, deep learning, computer vision, and robotics, I seek to unravel intelligence through technology. A relentless self-learner, I believe that knowledge is infinite, and the pursuit of it is an art."</h3>
+<h3 align="center">"I'm a second-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, specializing in Electronics and Biomedical Engineering. My core interests lie in Robotics (Competitive, Medical, and Industrial), Medical Instrumentation, Generative AI (including Agentic AI and LLMs), Bio-signal Processing, IoT, and Biomedical Innovations such as Wearable Devices. I'm especially passionate about exploring the intersection of electronics and healthcare through innovative, tech-driven solutions."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka20&label=Profile%20views&color=0e75b6&style=flat" alt="madusanka20" /> </p>
 
