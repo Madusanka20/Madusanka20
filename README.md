@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA, Computer Vision, Deep Learning, OpenCV, Robotics , GenAI , Agentic AI , BioSignal Processing**  
+- 🌱 I’m currently learning **Computer Vision, Deep Learning, OpenCV, Robotics , GenAI , Agentic AI ,DSA, BioSignal Processing**  
 - 🛠️ I have experience in **PCB Design using Altium** , **Enclosure Design with SolidWorks** , **AI/ML/GenAI(LLM)/AgenticAI** , **Web Development using NextJS** , **Circuit Design** ,**BioSignal (ECG, EMG)**  
 - 🤖 I'm passionate about **Robotics and AI**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Madusanka20)  
