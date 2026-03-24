@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahan Madusanka</h1>
-<h3 align="center">"I'm a second-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, specializing in Electronics and Biomedical Engineering. My core interests lie in Robotics (Competitive, Medical, and Industrial), Medical Instrumentation, Generative AI (including Agentic AI and LLMs), Bio-signal Processing, IoT, and Biomedical Innovations such as Wearable Devices. I'm especially passionate about exploring the intersection of electronics and healthcare through innovative, tech-driven solutions."</h3>
+<h3 align="center">"I'm a Final year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, specializing in Electronics and Biomedical Engineering. My core interests lie in Medical Instrumentation,Biomedical Innovations such as Wearable Devices, Robotics (Competitive, Medical, and Industrial), Bio-signal Processing, and IoT Things. I'm especially passionate about exploring the intersection of electronics and healthcare through innovative, tech driven solutions."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka20&label=Profile%20views&color=0e75b6&style=flat" alt="madusanka20" /> </p>
 
 
 
-- 🌱 I’m currently learning **Computer Vision, Deep Learning, OpenCV, Robotics , GenAI , Agentic AI ,DSA, BioSignal Processing**  
-- 🛠️ I have experience in **PCB Design using Altium** , **Enclosure Design with SolidWorks** , **AI/ML/GenAI(LLM)/AgenticAI** , **Web Development using NextJS** , **Circuit Design** ,**BioSignal (ECG, EMG)**  
-- 🤖 I'm passionate about **Robotics and AI**  
+- 🌱 I’m currently learning **Firmware Development uisng STM32 and TI interfacces, Industrial PCB Designing , Human Computer Interaction, Robotics , BioSignal Processing, DSA**  
+- 🛠️ I have experience in **PCB Design using Altium** , **Enclosure Design with SolidWorks** , **AI/ML/GenAI(LLM)/AgenticAI** , **Web Development using NextJS** , **Circuit Design** ,**BioSignal (ECG, EMG , EEG)**  
+- 🤖 I'm passionate about **Haradware Designing ( Firmware + PCB ) **  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Madusanka20)  
 - 📫 How to reach me: **smadusankaeng2002@gmail.com**
 
