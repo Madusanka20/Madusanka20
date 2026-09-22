@@ -61,7 +61,9 @@ My primary focus is Embedded Systems Engineering, with hands-on experience in mi
 <a href="https://www.ti.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/texas-instruments.svg" alt="texas-instruments" width="40" height="40"/>
 </a>
-
+<a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
+<img src="https://www.cadence.com/content/dam/cadence-www/global/en_US/images/brand/cadence-logo.svg" alt="cadence" width="40" height="40"/>
+</a>
 <!-- Python / Signal Processing -->
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
