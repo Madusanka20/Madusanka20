@@ -2,14 +2,14 @@
 
 <h3 align="center">
 Final-year Electronic & Telecommunication Engineering undergraduate at the University of Moratuwa, specializing in Biomedical Engineering. 
-My primary focus is Embedded Systems Engineering, with hands-on experience in mixed-signal PCB design, firmware development, sensor interfacing, and biomedical/wearable electronics.
+My primary focus is Embedded Systems Engineering, with hands-on experience in High-Speed / Mixed-signal PCB design, firmware development, sensor interfacing, and biomedical/wearable electronics.
 </h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=madusanka20&label=Profile%20views&color=0e75b6&style=flat" alt="madusanka20" />
 </p>
 
-* 🛠️ Experienced in **Mixed-Signal & Multilayer PCB Design using Altium Designer**, including sensor interfaces, power management, high-speed digital interfaces, and hardware debugging
+* 🛠️ Experienced in **High-Speed / Mixed-Signal & Multilayer PCB Design using Altium Designer**, including sensor interfaces, power management, high-speed digital interfaces, and hardware debugging
 
 * 💻 Developing embedded firmware using **C/C++**, particularly with **STM32 microcontrollers** and peripheral/device interfacing
 
